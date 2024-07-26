@@ -1,3 +1,3 @@
 # New
-## editing the file
-its a markdown file
+## Editing the file
+Its a markdown file
